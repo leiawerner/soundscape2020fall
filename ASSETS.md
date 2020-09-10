@@ -16,3 +16,8 @@ Photo snaps (camera)
 
 Natural sounds (outside)
 
+Update:
+Voice of Miranda rights (recorded myself)
+Ambience noise, sirens, camera, door closing (pulled from freesounds)
+Sound of keys (recorded myself using keys)
+
